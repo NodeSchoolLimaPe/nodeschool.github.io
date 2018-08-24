@@ -1453,7 +1453,8 @@
           ],
           "website": "http://nodeschool.io/buenosaires",
           "twitter": "nodeschoolba",
-          "repo": "http://github.com/nodeschool/buenosaires"
+          "repo": "http://github.com/nodeschool/buenosaires",
+          "image": "nodeschool-buenos-aires.svg"
         },
         {
           "name": "Campinas NodeSchool",
