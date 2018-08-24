@@ -45,17 +45,12 @@
       <h2>{{region}} ({{count}})</h2>
       <ul>
       {{#chapters}}
-        <li class="chapter">
         {{#image}}
         <a target="_blank" rel="noreferrer noopener" href="{{website}}" class="imglink">
         <img class="hex" src="images/{{image}}" alt="{{location}} Hexagon" />
         {{location}}{{#country}}, {{country}}{{/country}}
               </a>
         {{/image}}
-        {{^image}}
-        <a target="_blank" rel="noreferrer noopener" href="{{repo}}">{{location}}{{#country}}, {{country}}{{/country}}</a>
-        {{/image}}
-        </li>
       {{/chapters}}
       </ul>
       </div>
