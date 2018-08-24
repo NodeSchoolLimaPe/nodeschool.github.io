@@ -11,7 +11,7 @@ try {
 }
 
 function loadChapters() {
-  xhr('nodeschool.github.io/chapters/list.json', function (err, resp, body) {
+  xhr('chapters/list.json', function (err, resp, body) {
     if (err) return console.log(err)
     
     var template = $("#tmpl-chapter-list").html()
