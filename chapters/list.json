@@ -1612,7 +1612,8 @@
             "gmvxtm"
           ],
           "website": "http://nodeschool.io/lima",
-          "repo": "http://github.com/nodeschool/lima"
+          "repo": "http://github.com/nodeschool/lima",
+          "image": "nodeschool-lima.svg"
         },
         {
           "name": "Manizales NodeSchool",
